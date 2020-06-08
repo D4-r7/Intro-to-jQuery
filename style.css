@@ -1,0 +1,52 @@
+#box1, #box2, #box3{
+    background: #0D91A1;
+    color: #015668;
+    height: 100px;
+    width: 300px;
+    padding: 30px;
+    margin: 30px;
+    border: 5px solid #7DCE94;
+    font-family: Anton;
+    font-size: 25px;
+    }
+
+    .rainbow{
+        border: solid #4285f4;
+        width:200px ;
+      }
+      p {
+        text-align:center;
+        font-weight: bold;
+        color: white;
+        font-family: "Baloo Thambi 2";
+        
+        
+      }
+       
+      
+      .red {
+        background: #E67676;
+        padding: 20px;
+        margin:0px;
+        
+      }
+      .yellow{
+        background: #F2F062;
+        padding: 20px;
+        margin: 0px;
+        
+        
+      }
+      .turkiz{
+        background: #A9E6E6;
+        padding: 20px;
+        margin: 0px;
+        
+        
+      }
+      .blue{
+        background: #7692E4;
+        padding: 20px;
+        margin: 0px;
+        
+      }
